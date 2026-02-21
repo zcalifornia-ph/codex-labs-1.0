@@ -2,6 +2,18 @@
 
 Status: workshop repository documentation and notebook assets actively maintained.
 
+## v0.0.5
+
+### Added or Changed
+- Audited root documentation against current repository contents in `docs/`, `learn/`, and root-level markdown files.
+- Updated `README.md` version/status and release-notes references to reflect current release tracking.
+- Added detailed release documentation: `docs/version-0.0.5-docs.md`.
+- Removed references to ignored internal workflow metadata from historical changelog notes.
+- Updated `SECURITY.md` supported versions table to include `v0.0.5`.
+
+### For Deletion
+- `codex-labs/.ipynb_checkpoints/` (generated notebook checkpoint directory; review and remove manually if not intentionally tracked).
+
 ## v0.0.4
 
 ### Added or Changed
@@ -42,10 +54,10 @@ Status: workshop repository documentation and notebook assets actively maintaine
 ## v0.0.1
 
 ### Added or Changed
-- Initialized repository metadata and governance docs using `agent/action/init.task`.
+- Initialized repository metadata and governance docs during repository bootstrap.
 - Replaced placeholder `README.md` content with project-specific workshop documentation.
 - Added project-specific root policies: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md`.
-- Updated `.gitignore` to ignore `.gitignore`, `AGENTS.md`, `agent/`, and `REQUIREMENTS.md` as requested by task instructions.
+- Updated repository ignore rules to exclude internal workflow metadata as required by project policy.
 - Kept `LICENSE.txt` on Apache License 2.0 and resolved placeholder identity fields in the appendix example.
 
 ### For Deletion
