@@ -15,11 +15,11 @@
 <h3 align="center">CODEX LABS 1.0</h3>
 
   <p align="center">
-    <strong>Repository for CODEx Labs 1.0: Data Preprocessing, Visualization, and Exploratory Data Analysis through Python Workshop.</strong>
+    <strong>Attendee repository for CODEX LABS 1.0: Data Preprocessing, Data Visualization, and Exploratory Data Analysis through Python.</strong>
     <br />
-    Version: v0.0.3
+    Version: v0.0.4
     <br />
-    Status: workshop notebook data-cleaning module expanded.
+    Status: attendee workshop context and release documentation updated.
     <br />
     <a href="https://github.com/zcalifornia-ph/codex-labs-1.0"><strong>Explore the docs</strong></a>
     <br />
@@ -32,29 +32,44 @@
 
 ## About The Project
 
-This repository contains workshop materials for CODEX LABS 1.0 focused on practical Python workflows for:
+This repository contains my outputs and notes as an attendee of CODEX LABS 1.0.
+
+The workshop focused on practical Python workflows for:
 
 - data preprocessing
 - exploratory data analysis (EDA)
 - visualization
 
-Primary audience: accepted workshop participants preparing their local environment before the event.
+Primary audience: workshop participants who want a concrete reference implementation after the session.
+
+## Workshop Context
+
+- Event: CODEX LABS 1.0
+- Workshop title: Data Preprocessing, Data Visualization, and Exploratory Data Analysis through Python
+- Date: February 21, 2026 (Saturday)
+- Time: 9:00 AM - 5:00 PM
+- Venue: Cultural Center, UP Mindanao
+- Speaker: Eli Lamzon (CODEx President 24-25)
+- Speaker: Meelo Piezas (CODEx President 25-26)
+- Tools highlighted during the workshop: Pandas, Matplotlib, Seaborn
+- Format: guided coding workshop with peer-led mentorship (no prior experience required)
 
 ## Event Details
 
 - Date: February 21, 2026 (Saturday)
 - Time: 9:00 AM - 5:00 PM
-- Venue: UP Min Cultural Center R01
+- Venue: Cultural Center, UP Mindanao
 - Guide to UP Min Cultural Center: https://web.facebook.com/share/p/18X9FvgUsg/
 - Google Maps link: https://maps.app.goo.gl/LeMJcgWeiEoALqGz7?g_st=ic
 
 ## Preparation
 
-Install the required tools before attending the workshop:
+Install the required tools before working through the notebooks:
 
 - Visual Studio Code: https://code.visualstudio.com/download
 - VS Code setup tutorial: https://www.youtube.com/watch?v=wU7IQLIOwoo
 - Jupyter Notebook in VS Code tutorial: https://www.youtube.com/watch?v=ZWtWUtusuPA
+- Google Colab (alternative): https://colab.research.google.com/
 
 ## Repository Contents
 
@@ -62,7 +77,7 @@ Install the required tools before attending the workshop:
 - `codex-labs/merge.ipynb`: notebook for merge/join workflow
 - `codex-labs/data cleaning.ipynb`: notebook for data-cleaning workflow (duplicates, normalization, and outlier checks)
 - `codex-labs/df_download.csv`: workshop dataset
-- `docs/version-0.0.3-docs.md`: detailed notes for the current release
+- `docs/version-0.0.4-docs.md`: detailed notes for the current release
 
 ## Getting Started
 
@@ -90,7 +105,7 @@ Install the required tools before attending the workshop:
 
 ## Release Notes
 
-- Current release details: `docs/version-0.0.3-docs.md`
+- Current release details: `docs/version-0.0.4-docs.md`
 
 ## Contributing
 
