@@ -4,6 +4,7 @@
 
 | Version | Supported |
 | --- | --- |
+| v0.0.3 | :white_check_mark: |
 | v0.0.2 | :white_check_mark: |
 | v0.0.1 | :white_check_mark: |
 | older | :x: |

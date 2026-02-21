@@ -17,9 +17,9 @@
   <p align="center">
     <strong>Repository for CODEx Labs 1.0: Data Preprocessing, Visualization, and Exploratory Data Analysis through Python Workshop.</strong>
     <br />
-    Version: v0.0.2
+    Version: v0.0.3
     <br />
-    Status: initialized workshop documentation baseline.
+    Status: workshop notebook data-cleaning module expanded.
     <br />
     <a href="https://github.com/zcalifornia-ph/codex-labs-1.0"><strong>Explore the docs</strong></a>
     <br />
@@ -60,8 +60,9 @@ Install the required tools before attending the workshop:
 
 - `codex-labs/concatenate.ipynb`: notebook for dataset concatenation workflow
 - `codex-labs/merge.ipynb`: notebook for merge/join workflow
+- `codex-labs/data cleaning.ipynb`: notebook for data-cleaning workflow (duplicates, normalization, and outlier checks)
 - `codex-labs/df_download.csv`: workshop dataset
-- `docs/version-0.0.2-docs.md`: detailed notes for the current documentation release
+- `docs/version-0.0.3-docs.md`: detailed notes for the current release
 
 ## Getting Started
 
@@ -89,7 +90,7 @@ Install the required tools before attending the workshop:
 
 ## Release Notes
 
-- Current release details: `docs/version-0.0.2-docs.md`
+- Current release details: `docs/version-0.0.3-docs.md`
 
 ## Contributing
 
