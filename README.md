@@ -17,9 +17,9 @@
   <p align="center">
     <strong>Attendee repository for CODEX LABS 1.0: Data Preprocessing, Data Visualization, and Exploratory Data Analysis through Python.</strong>
     <br />
-    Version: v0.0.5
+    Version: v0.0.6
     <br />
-    Status: documentation consistency pass completed for attendee workshop materials.
+    Status: workshop assets reorganized under codex-labs/eli-talk/ with release documentation updated.
     <br />
     <a href="https://github.com/zcalifornia-ph/codex-labs-1.0"><strong>Explore the docs</strong></a>
     <br />
@@ -73,11 +73,11 @@ Install the required tools before working through the notebooks:
 
 ## Repository Contents
 
-- `codex-labs/concatenate.ipynb`: notebook for dataset concatenation workflow
-- `codex-labs/merge.ipynb`: notebook for merge/join workflow
-- `codex-labs/data cleaning.ipynb`: notebook for data-cleaning workflow (duplicates, normalization, and outlier checks)
-- `codex-labs/df_download.csv`: workshop dataset
-- `docs/version-0.0.5-docs.md`: detailed notes for the current release
+- `codex-labs/eli-talk/concatenate.ipynb`: notebook for dataset concatenation workflow
+- `codex-labs/eli-talk/merge.ipynb`: notebook for merge/join workflow
+- `codex-labs/eli-talk/data cleaning.ipynb`: notebook for data-cleaning workflow (duplicates, normalization, and outlier checks)
+- `codex-labs/eli-talk/df_download.csv`: workshop dataset
+- `docs/version-0.0.6-docs.md`: detailed notes for the current release
 - `learn/`: reserved for learning notes (currently no markdown study files)
 
 ## Getting Started
@@ -96,7 +96,7 @@ Install the required tools before working through the notebooks:
    cd codex-labs-1.0
    ```
 2. Open the project in VS Code.
-3. Open notebooks in `codex-labs/` and run cells in order.
+3. Open notebooks in `codex-labs/eli-talk/` and run cells in order.
 
 ## Workshop Reminders
 
@@ -106,8 +106,8 @@ Install the required tools before working through the notebooks:
 
 ## Release Notes
 
-- Current release details: `CHANGELOG.md` (`v0.0.5`)
-- Latest detailed release document: `docs/version-0.0.5-docs.md`
+- Current release details: `CHANGELOG.md` (`v0.0.6`)
+- Latest detailed release document: `docs/version-0.0.6-docs.md`
 
 ## Contributing
 

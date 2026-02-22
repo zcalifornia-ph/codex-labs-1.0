@@ -2,6 +2,19 @@
 
 Status: workshop repository documentation and notebook assets actively maintained.
 
+## v0.0.6
+
+### Added or Changed
+- Reorganized workshop notebooks and dataset into `codex-labs/eli-talk/` (`concatenate.ipynb`, `merge.ipynb`, `data cleaning.ipynb`, and `df_download.csv`) to keep Eli talk materials in a dedicated subfolder.
+- Removed the legacy top-level workshop asset copies from `codex-labs/` after relocation to the `eli-talk` subdirectory.
+- Moved corresponding Jupyter checkpoint artifacts into `codex-labs/eli-talk/.ipynb_checkpoints/` as part of the same folder restructure.
+- Updated `README.md` version marker from `v0.0.5` to `v0.0.6` and refreshed repository-contents, setup, and release-notes paths to use `codex-labs/eli-talk/`.
+- Added detailed release documentation: `docs/version-0.0.6-docs.md`.
+- Updated `SECURITY.md` supported versions table to include `v0.0.6`.
+
+### For Deletion
+- `codex-labs/eli-talk/.ipynb_checkpoints/` (generated notebook checkpoint directory; review and remove manually if not intentionally tracked).
+
 ## v0.0.5
 
 ### Added or Changed
